@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.py
+
+# Ignore Python byte-compiled files
+__pycache__/
+
+# Ignore VS Code settings
+.vscode/
